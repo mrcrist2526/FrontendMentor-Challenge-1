@@ -1,2 +1,2 @@
-# FrontendMentor-Challenge-1
+# Order card component
 An order summary component challenge from Frontend Mentor. 
